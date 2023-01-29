@@ -42,6 +42,7 @@ Figma
 
 
 ## OUTPUT:
+![img](output1.png)
 
 
 ## Result:
