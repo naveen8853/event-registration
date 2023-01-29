@@ -42,10 +42,10 @@ Figma
 
 
 ## OUTPUT:
-![img](output1.png)
+![img](output1.jpeg)
 
 
-## Result:
+## Result: 
 Validate the HTML and CSS code.
 
 
